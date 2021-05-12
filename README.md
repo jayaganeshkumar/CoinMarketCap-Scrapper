@@ -18,7 +18,8 @@
    To install these libraries, download the repo, extract it and open the command prompt or terminal in the folder. <br>
    Now run the command: `pip install -r requirements.txt` to install the required libraries. <br>
    
-   Now download the chrome driver for Selenium from [https://chromedriver.chromium.org/downloads](Link).
+   Now download the chrome driver for Selenium from [https://chromedriver.chromium.org/downloads](Link).<br>
+   Check the version of chrome installed and then download the respective driver.
    <br>
    Now open `main.py` in text editor and replace the path for chrome driver in line 8 with your chrome driver path.<br>
    
