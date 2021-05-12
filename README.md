@@ -3,7 +3,7 @@
   This is a web scrapping code which retrieves the data of a particular cypto currency.
   
 ## Technologies needed:
-   Python 3.7
+   Python 3.7<br>
    Chrome Driver
    
  ## Required Libraries
